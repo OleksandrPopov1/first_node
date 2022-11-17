@@ -3,3 +3,4 @@ package-lock.json
 
 .idea
 first_node.iml
+.env
